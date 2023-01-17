@@ -5,5 +5,5 @@ This is where I will be creating the markdown
 
 # Information
 
-- This project is abouta  normal index.html
-- The index.html file contains all the basic tags.
+- This project is a sample HTML file that contains various HTML tags with some CSS styling included inline.
+- This includes the \<html> tag, \<br> tag, \<img> tag, \<h1> and \<h2> tags, an \<a href> tag
